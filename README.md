@@ -1,1 +1,1 @@
-Matrix computation and image processing lab work.
+Matrix computation and image/signal processing lab work.
