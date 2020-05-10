@@ -1,2 +1,1 @@
-CMSI - Synthèse d’image TP
-Génération d’un paysage virtuel
+Image Syntheis Projet - Generating a virtual landscape using OpenGL Shading Language.
